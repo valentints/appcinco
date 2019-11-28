@@ -1,0 +1,16 @@
+
+.Main {
+    background-color: gray;
+    grid-area: m;
+  
+  
+  }
+
+.van
+  {
+    width: 15 ;
+    padding: 42px;
+    margin: 2fr;
+    size: 11px;
+
+  }
